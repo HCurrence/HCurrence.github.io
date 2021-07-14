@@ -4,8 +4,8 @@
 Use the instructions here to set up your repository on GitHub: https://pages.github.com/
 
 ## Hosting Pages
-Your main repository will be yourUsername.github.io. This will be the home page for all other pages and project sites. 
-The main page will point to a file called "index.html". GitHub pages will automatically generate this file as a web page available at http://yourUsername.github.io or http://yourUsername.github.io/index.html. 
+Your main repository will be yourUsername.github.io. This will be the url for your home page, and the root page for all other pages and project sites. 
+The main page url will point to a file called "index.html". GitHub pages will automatically generate this file as a web page available at https://yourUsername.github.io or https://yourUsername.github.io/index.html. 
 
 So far, your repository's directory should look like this: 
 _Picture of Repository with only index.html here_
