@@ -33,3 +33,4 @@ Sources:
 * https://pages.github.com/
 * https://docs.github.com/en/pages
 * https://jekyllrb.com/docs/posts/
+* https://stackoverflow.com/questions/15563685/can-i-create-more-than-one-repository-for-github-pages/41879114#41879114
