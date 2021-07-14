@@ -22,3 +22,9 @@ Project sites are sub-directories/sub-repositories inside of your GitHub Pages r
 _Picture of project site folder inside of the main repository._
 
 Inside of this new sub-directory, you can create a new "index.html" file to serve as the home page to your project. 
+
+
+Sources:
+https://pages.github.com/
+https://docs.github.com/en/pages
+https://jekyllrb.com/docs/posts/
